@@ -34,6 +34,7 @@ body {
 .pure__menu__list {
     display: flex;
     align-items: center;
+
 }
 
 .pure__menu__item {
